@@ -1,0 +1,29 @@
+{
+  "name": "string-integer",
+  "version": "1.0.0",
+  "description": "Integer values as a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KitsonBroadhurst/string-integer.git"
+  },
+  "keywords": [
+    "docs",
+    "documentation",
+    "generate",
+    "generator",
+    "markdown",
+    "number",
+    "integer",
+    "string"
+  ],
+  "author": "Kitson Broadhurst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KitsonBroadhurst/string-integer/issues"
+  },
+  "homepage": "https://github.com/KitsonBroadhurst/string-integer"
+}
