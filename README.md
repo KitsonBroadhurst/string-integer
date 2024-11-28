@@ -1,4 +1,4 @@
-# string-integer
+# string-integer [![npm version](https://badge.fury.io/js/string-integer.svg)](https://badge.fury.io/js/string-integer)
 
 Integer values as a string.
 
