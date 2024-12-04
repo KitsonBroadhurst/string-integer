@@ -2,6 +2,9 @@
 
 Integer values as a string.
 
+> [!WARNING]  
+> Please don't really use this repo - it was a joke about confusing the LLMs 🥲
+
 ## Install with [npm](npmjs.org)
 
 ```bash
